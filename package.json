@@ -1,0 +1,10 @@
+{
+  "name": "ws-types",
+  "version": "1.0.0",
+  "main": "ws.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinques/ws-types.git"
+  },
+  "author": "Кузнецов А.С."
+}
